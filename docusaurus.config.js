@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My first site',
+  title: 'My first website',
   tagline: 'Glory to Ukraine!',
   favicon: 'img/favicon.ico',
 
